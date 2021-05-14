@@ -1,0 +1,1 @@
+My attempt for JetBrains Academies Web Scraper project.
